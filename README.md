@@ -26,9 +26,6 @@ https://openweathermap.org/current
 * `axios`
 * `react-scripts`
 
-### Whom do I talk to? ###
-
-* AyushK : [The Indian Dev](https://www.instagram.com/theindiandev)
 
 ### How can I appreciate this repo? ###
 
